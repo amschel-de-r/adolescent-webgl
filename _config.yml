@@ -2,6 +2,5 @@ theme: jekyll-theme-cayman
 title: One of a Kind Adolescent Battery
 description: A battery with games measuring cognitive domains
 show_downloads: false
-baseurl: /battery
 github:
   is_project_page: false
