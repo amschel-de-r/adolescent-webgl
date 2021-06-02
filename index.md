@@ -1,8 +1,3 @@
----
-title: "One"
-permalink: /game/
----
-
 ## Try out the game below
 
 <div style="position:relative;padding-bottom:62.5%;">
